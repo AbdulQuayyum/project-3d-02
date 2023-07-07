@@ -6133,7 +6133,7 @@
       ]
     }
   ],
-  "Textures": [
+  "textures": [
     {
       "sampler": 0,
       "source": 0

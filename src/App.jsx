@@ -1,6 +1,6 @@
 import React, { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
-import { EffectComposer, DepthOfField, Bloom, ChromaticAberration } from "@react-three/postprocessing";
+import { EffectComposer, Bloom, ChromaticAberration } from "@react-three/postprocessing";
 import { BlendFunction } from "postprocessing";
 import { CubeCamera, Environment, OrbitControls, PerspectiveCamera } from "@react-three/drei";
 
@@ -22,7 +22,7 @@ function CarShow() {
         {(texture) => (
           <>
             <Environment map={texture} />
-            {/* <Car /> */}
+            <Car />
           </>
         )}
       </CubeCamera>
