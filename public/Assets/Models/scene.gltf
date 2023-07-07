@@ -3832,64 +3832,64 @@
   ],
   "images": [
     {
-      "uri": "textures/CorvetteWingEmblem_baseColor.png"
+      "uri": "Textures/CorvetteWingEmblem_baseColor.png"
     },
     {
-      "uri": "textures/CorvetteWingEmblem_metallicRoughness.png"
+      "uri": "Textures/CorvetteWingEmblem_metallicRoughness.png"
     },
     {
-      "uri": "textures/Brake_Disc_baseColor.png"
+      "uri": "Textures/Brake_Disc_baseColor.png"
     },
     {
-      "uri": "textures/Brake_Disc_metallicRoughness.png"
+      "uri": "Textures/Brake_Disc_metallicRoughness.png"
     },
     {
-      "uri": "textures/Brake_Disc_normal.png"
+      "uri": "Textures/Brake_Disc_normal.png"
     },
     {
-      "uri": "textures/TireMaterial_baseColor.png"
+      "uri": "Textures/TireMaterial_baseColor.png"
     },
     {
-      "uri": "textures/TireMaterial_metallicRoughness.png"
+      "uri": "Textures/TireMaterial_metallicRoughness.png"
     },
     {
-      "uri": "textures/TireMaterial_normal.png"
+      "uri": "Textures/TireMaterial_normal.png"
     },
     {
-      "uri": "textures/Brake_Caliper_baseColor.png"
+      "uri": "Textures/Brake_Caliper_baseColor.png"
     },
     {
-      "uri": "textures/Brake_Caliper_metallicRoughness.png"
+      "uri": "Textures/Brake_Caliper_metallicRoughness.png"
     },
     {
-      "uri": "textures/Brake_Caliper_normal.png"
+      "uri": "Textures/Brake_Caliper_normal.png"
     },
     {
-      "uri": "textures/Glossy_Plastic_metallicRoughness.png"
+      "uri": "Textures/Glossy_Plastic_metallicRoughness.png"
     },
     {
-      "uri": "textures/Wipers_baseColor.png"
+      "uri": "Textures/Wipers_baseColor.png"
     },
     {
-      "uri": "textures/Wipers_metallicRoughness.png"
+      "uri": "Textures/Wipers_metallicRoughness.png"
     },
     {
-      "uri": "textures/Windows_metallicRoughness.png"
+      "uri": "Textures/Windows_metallicRoughness.png"
     },
     {
-      "uri": "textures/Exhaust_baseColor.png"
+      "uri": "Textures/Exhaust_baseColor.png"
     },
     {
-      "uri": "textures/Exhaust_metallicRoughness.png"
+      "uri": "Textures/Exhaust_metallicRoughness.png"
     },
     {
-      "uri": "textures/Exhaust_normal.png"
+      "uri": "Textures/Exhaust_normal.png"
     },
     {
-      "uri": "textures/License_Plate_baseColor.jpeg"
+      "uri": "Textures/License_Plate_baseColor.jpeg"
     },
     {
-      "uri": "textures/License_Plate_normal.jpeg"
+      "uri": "Textures/License_Plate_normal.jpeg"
     }
   ],
   "materials": [
@@ -6133,7 +6133,7 @@
       ]
     }
   ],
-  "textures": [
+  "Textures": [
     {
       "sampler": 0,
       "source": 0
