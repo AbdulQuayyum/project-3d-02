@@ -7,7 +7,7 @@ import { Mesh } from "three";
 // by Martin Trafas (https://sketchfab.com/Bexxie) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 export function Car() {
     const gltf = useLoader(
-        GLTFLoader, "/Assets/Models/scene.gltf"
+        GLTFLoader, "/assets/Models/scene.gltf"
     );
 
     useEffect(() => {
